@@ -2,7 +2,7 @@
 
 <!--
 **mauisiri/mauisiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🌱 I’m currently coursing Full Stack developer course.
 
 - 🌱 I’m currently coursing Full Stack developer course.
 - 👯 I’m looking to collaborate on ...
@@ -11,4 +11,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->java  laravel php javascript vuejs
+Skills: VUE JS / REACT / HTML / CSS / PHP / LARAVEL
