@@ -10,13 +10,16 @@ You can contact me
 🌐 Contact me at: ![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg) => linkedin.com/in/irisleo/
 
 <a href="https://www.linkedin.com/in/irisleo/"><img href="![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)></img></a>
+ 
   
+  [<img alt="LinkedIn" href="[images/image.PNG](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)" />]([https://www.google.com/](https://www.linkedin.com/in/irisleo/))
+
   [![LinkedIn]([link to image on GH](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg])(https://www.linkedin.com/in/irisleo/)
 
 
 
 
-💻 Tech Stack:
+💻 Tech skills:
 
 ![html](https://user-images.githubusercontent.com/116796625/216713355-e36838a8-f54e-457f-b863-454647e606ff.svg)
 ![css](https://user-images.githubusercontent.com/116796625/216713359-c3ac88bc-f027-409b-9c25-6afe778a8281.svg)
@@ -43,4 +46,4 @@ You can contact me
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Skills: VUE JS / REACT / HTML / CSS / PHP / LARAVEL
+
