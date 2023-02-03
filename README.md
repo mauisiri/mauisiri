@@ -8,9 +8,10 @@ You can contact me
 
 
 🌐 Contact me at: ![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg) => linkedin.com/in/irisleo/
-"https://www.linkedin.com/in/irisleo/"><img href="![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)></img>
+
+<a href="https://www.linkedin.com/in/irisleo/"><img href="![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)></img></a>
   
-  [![LinkedIn]([link to image on GH](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg))](https://www.linkedin.com/in/irisleo/)
+  [![LinkedIn]([link to image on GH](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg])(https://www.linkedin.com/in/irisleo/)
 
 
 
