@@ -6,7 +6,7 @@ I'm Iris, junior Full Stack developer
 
 <br>
 
-🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ clicking here 🖱️ℹ️](https://www.linkedin.com/in/irisleo/) 
+🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ clicking here ℹ️](https://www.linkedin.com/in/irisleo/) 
 
 📧 **Or by mail**: [  irisleo.com@gmail.com](mailto:irisleo.com@egmail.com)
 
