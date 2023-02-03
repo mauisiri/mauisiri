@@ -1,4 +1,14 @@
 ### Hi there 👋
+Welcome to my profile!
+
+You can contact me 
+
+🌱 I’m currently learning different programming languages to become a Full Stack developer. 
+
+
+
+🌐 Contact me at: ![LI]([https://user-images.githubusercontent.com](https://www.linkedin.com/in/irisleo/)/116796625/216714772-cfcaefc2-89cd-466e-a5d4-005b38122386.svg)
+
 
 💻 Tech Stack:
 
