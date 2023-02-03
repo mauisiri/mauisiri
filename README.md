@@ -1,12 +1,17 @@
-### Hi there 👋
-Welcome to my profile! ✨
+### Hi there! 👋 Welcome to my profile ✨
+
 I'm Iris, junior Full Stack developer
 💻 **Actively seeking employment**
-🌱 I’m currently coursing Full Stack developer course.
+🌱 and currently coursing a Full Stack developer course.
+
+<br>
 
 🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ clicking here 🖱️ℹ️](https://www.linkedin.com/in/irisleo/) 
 
 📧 **Or by mail**: [  irisleo.com@gmail.com](mailto:irisleo.com@egmail.com)
+
+
+<br>
 
 ### 💻 Tech Languages and Tools
 
