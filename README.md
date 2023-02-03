@@ -9,7 +9,7 @@ You can contact me
 
 🌐 Contact me at: ![LinkedIn](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg) => linkedin.com/in/irisleo/
 
-🌐 Contact me at: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[pressng here](https://www.linkedin.com/in/irisleo/)
+🌐 Contact me at: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ pressng here](https://www.linkedin.com/in/irisleo/)
 
 
 
