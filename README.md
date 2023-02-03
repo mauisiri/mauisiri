@@ -1,16 +1,15 @@
 ### Hi there 👋
-Welcome to my profile! I'm Iris, junios Full-stack Developer 💻 currently **actively seeking employment** 
+Welcome to my profile! ✨
+I'm Iris, junior Full Stack developer
+💻 **Actively seeking employment**
+🌱 I’m currently coursing Full Stack developer course.
 
+🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ clicking here 🖱️ℹ️](https://www.linkedin.com/in/irisleo/) 
 
-You can contact me 
+📧 **Or by mail**: [  irisleo.com@gmail.com](mailto:irisleo.com@egmail.com)
 
-🌱 I’m currently learning different programming languages to become a Full Stack developer. 
+### 💻 Tech Languages and Tools
 
-
-🌐 Contact me at: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ clicking here 🖱️ℹ️](https://www.linkedin.com/in/irisleo/)
-
-
-💻 Tech skills:
 
 ![html](https://user-images.githubusercontent.com/116796625/216713355-e36838a8-f54e-457f-b863-454647e606ff.svg)
 ![css](https://user-images.githubusercontent.com/116796625/216713359-c3ac88bc-f027-409b-9c25-6afe778a8281.svg)
@@ -24,17 +23,4 @@ You can contact me
 ![canva](https://user-images.githubusercontent.com/116796625/216713341-971ef99c-b388-44e9-8d34-f140242740d6.svg)
 ![Figma](https://user-images.githubusercontent.com/116796625/216713350-586af38c-8dd3-4f48-9316-0cf4e69add66.svg)
 ![notion](https://user-images.githubusercontent.com/116796625/216713423-6c5546f6-3cd2-4705-b189-c0a0e853818a.svg)
-
-
-<!--
-**mauisiri/mauisiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🌱 I’m currently coursing Full Stack developer course.
-
-- 🌱 I’m currently coursing Full Stack developer course.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
