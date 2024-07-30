@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there! 👋 Welcome to my profile ✨<br><br>I'm Iris Leo, junior Full Stack developer<br>💻 **Actively seeking employment**<br>🌱 and currently coursing a Full Stack developer course.<br><br><br><br><br>🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ by clicking here ℹ️](https://www.linkedin.com/in/irisleo/) <br><br>📧 **Or by mail**: [  irisleo.com@gmail.com](mailto:irisleo.com@egmail.com)<br><br><br><br><br>
+### Hi there! 👋 Welcome to my profile ✨<br><br>I'm Iris Leo, junior Full Stack developer<br>💻 **Actively seeking employment**<br>🌱 <br><br><br><br><br>🌐 **Contact me at**: ![image search api](https://user-images.githubusercontent.com/116796625/216715528-d5013764-da7c-4e40-9dc6-e63062403f7c.svg)[ by clicking here ℹ️](https://www.linkedin.com/in/irisleo/) <br><br>📧 **Or by mail**: [  irisleo.com@gmail.com](mailto:irisleo.com@egmail.com)<br><br><br><br><br>
 
 ### 💻 Tech Languages and Tools
 
